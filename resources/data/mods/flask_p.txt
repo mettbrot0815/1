@@ -1,0 +1,50 @@
+#% chance to gain a Flask Charge when you deal a Critical Strike
+#% increased Amount Recovered
+#% increased Charge Recovery
+#% increased Charges per use
+#% increased Charges used
+#% increased Duration
+#% increased Life Recovered
+#% increased Mana Recovered
+#% increased Recovery rate
+#% more Recovery if used while on Low Life
+#% reduced Amount Recovered
+#% reduced Charges per use
+#% reduced Charges used
+#% reduced Duration
++# to Maximum Charges
+100% increased Recovery when on Low Life
+135% increased Recovery rate
+20% chance to gain a Flask Charge when you deal a Critical Strike
+25% increased effect
+35% increased effect
+25% reduced Amount Recovered
+25% reduced effect
+30% increased Amount Recovered
+30% reduced Amount Recovered
+30% reduced Duration
+33% reduced Duration
+33% reduced Recovery rate
+40% increased Life Recovered
+50% increased Amount Recovered
+50% increased Recovery rate
+50% of Recovery applied Instantly
+50% reduced Amount Recovered
+60% increased Mana Recovered
+66% increased Amount Recovered
+66% reduced Amount Recovered
+Effect does not Queue
+Effect is not removed when Unreserved Mana is Filled
+Flask Effect does not Queue
+Flask Effect is not removed at Full Mana
+Gain 1 Charge when you are Hit by an Enemy
+Gain 2 Charges when you are Hit by an Enemy
+Gain 3 Charges when you are Hit by an Enemy
+Instant Recovery
+Instant Recovery when on Low Life
+Mana Recovery occurs instantly at the end of Effect
+Mana Recovery occurs instantly at the end of the Flask effect
+Recharges 1 Charge when you deal a Critical Strike
+Recharges 5 Charges when you take a Critical Strike
+Removes 10% of Life Recovered from Mana when used
+Removes 15% of Mana Recovered from Life when used

@@ -1,0 +1,164 @@
+[UNUSED] Bleed duration 1
+[UNUSED] Ignite duration 1
+[UNUSED] Poison duration 1
+of Abundance
+of Acceleration
+of Adrenaline
+of Allaying
+of Alleviation
+of Animation
+of Assuaging
+of Ballast
+of Bloodletting
+of Bloodshed
+of Bog Moss
+of Bounty
+of Bracing
+of Butchery
+of Carnage
+of Composure
+of Convection
+of Counterpoise
+of Craving
+of Curing
+of Damping
+of Depletion
+of Diverting
+of Dousing
+of Draining
+of Earthing
+of Efficiency
+of Entropy
+of Fending
+of Foisting
+of Freedom
+of Gluttony
+of Gore
+of Grounding
+of Heat
+of Imposing
+of Incessance
+of Incision
+of Infliction
+of Insulation
+of Interference
+of Iron Skin
+of Liberation
+of Motion
+of Movement
+of Obstruction
+of Occlusion
+of Penetrating
+of Perenniality
+of Persistence
+of Piercing
+of Plenty
+of Plume Moss
+of Quashing
+of Quelling
+of Quenching
+of Quickening
+of Reflexes
+of Relentlessness
+of Resistance
+of Restraint
+of Runeblazing
+of Runeflaring
+of Runegleaming
+of Runeshining
+of Rupturing
+of Sealing
+of Siphoning
+of Stabilisation
+of Staunching
+of Steadiness
+of Stiffness
+of Stinging
+of Surefootedness
+of Tapping
+of Tenaciousness
+of Thawing
+of the Abalone
+of the Acolyte
+of the Albatross
+of the Antelope
+of the Antidote
+of the Antitoxin
+of the Arcanist
+of the Armadillo
+of the Bear
+of the Beluga
+of the Carp
+of the Cat
+of the Catfish
+of the Cheetah
+of the Conger
+of the Conjurer
+of the Cormorant
+of the Crow
+of the Crystal
+of the Cure
+of the Curlew
+of the Deer
+of the Dielectric
+of the Dove
+of the Eagle
+of the Eel
+of the Falcon
+of the Fox
+of the Gazelle
+of the Goldfish
+of the Guppy
+of the Hare
+of the Hedgehog
+of the Heron
+of the Horsefly
+of the Hummingbird
+of the Ibex
+of the Iguana
+of the Impala
+of the Initiate
+of the Kakapo
+of the Kaleidoscope
+of the Lizard
+of the Lynx
+of the Mage
+of the Mockingbird
+of the Monkey
+of the Moray
+of the Mussel
+of the Narwhal
+of the Necromancer
+of the Novice
+of the Opossum
+of the Orca
+of the Owl
+of the Pangolin
+of the Penguin
+of the Petrel
+of the Plover
+of the Prism
+of the Pupil
+of the Rabbit
+of the Raccoon
+of the Remedy
+of the Sable
+of the Sanderling
+of the Sandpiper
+of the Sea Lion
+of the Seal
+of the Skink
+of the Skunk
+of the Sorcerer
+of the Starfish
+of the Summoner
+of the Sunfish
+of the Tortoise
+of the Urchin
+of the Walrus
+of Thermodynamics
+of Tooth Moss
+of Tree Moss
+of Turf Moss
+of Warding
+of Wreaking

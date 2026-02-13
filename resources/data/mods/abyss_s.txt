@@ -1,0 +1,207 @@
+-# Physical Damage taken from Hits
+#% additional Physical Damage Reduction against Abyssal Monsters
+#% additional Physical Damage Reduction while moving
+#% chance to Avoid being Chilled
+#% chance to Avoid being Frozen
+#% chance to Avoid being Ignited
+#% chance to Avoid being Poisoned
+#% chance to Avoid being Shocked
+#% chance to Avoid being Stunned
+#% chance to Avoid Bleeding
+#% chance to Avoid Elemental Ailments while you have Elusive
+#% chance to Avoid interruption from Stuns while Casting
+#% chance to Blind Enemies on Hit with Attacks
+#% Chance to Block Attack Damage
+#% Chance to Block Spell Damage
+#% chance to Defend with 200% of Armour
+#% chance to Defend with Double Armour
+#% chance to Dodge Attack Hits
+#% chance to Dodge Spell Hits
+#% chance to gain a Frenzy Charge when Hit
+#% chance to gain a Frenzy Charge when you Hit a Rare or Unique Enemy
+#% chance to gain an additional Vaal Soul on Kill
+#% chance to gain Onslaught for 4 seconds on Kill
+#% chance to gain Onslaught when you use a Flask
+#% chance to gain Phasing for 4 seconds on Kill
+#% chance to Gain Unholy Might for 4 seconds on Melee Kill
+#% chance to Hinder Enemies on Hit with Spells
+#% chance to Hinder Enemies on Hit with Spells, with 30% reduced Movement Speed
+#% chance to Ignore Stuns while Casting
+#% chance to Taunt Enemies on Hit with Attacks
+#% Global chance to Blind Enemies on hit
+#% increased Accuracy Rating if you haven't Killed Recently
+#% increased Armour
+#% increased Armour and Energy Shield
+#% increased Armour and Evasion
+#% increased Armour if you haven't Killed Recently
+#% increased Armour, Evasion and Energy Shield
+#% increased Attack and Cast Speed if you've Hit an Enemy Recently
+#% increased Attack Speed
+#% increased Attack Speed if you've dealt a Critical Strike Recently
+#% increased Cast Speed
+#% increased Cast Speed if a Minion has been Killed Recently
+#% increased Cast Speed if you've dealt a Critical Strike Recently
+#% increased Chaos Damage
+#% increased Critical Strike Chance if you haven't dealt a Critical Strike Recently
+#% increased Damage against Abyssal Monsters
+#% increased Damage if you've Killed Recently
+#% increased Damage when on Full Life
+#% increased Damage with Ailments
+#% increased Damage with Hits and Ailments against Abyssal Monsters
+#% increased Damage with Vaal Skills
+#% increased Effect of Cold Ailments
+#% increased Effect of Fortify on you
+#% increased Effect of Lightning Ailments
+#% increased effect of Non-Curse Auras from your Skills
+#% increased Elemental Damage
+#% increased Energy Shield
+#% increased Energy Shield from Body Armour
+#% increased Energy Shield from Equipped Body Armour
+#% increased Evasion and Energy Shield
+#% increased Evasion Rating
+#% increased Evasion Rating while moving
+#% increased Global Critical Strike Chance
+#% increased Global Evasion Rating when on Full Life
+#% increased Life Recovery from Flasks
+#% increased Mana Recovery rate
+#% increased Mana Regeneration Rate while moving
+#% increased Mana Reservation Efficiency of Skills
+#% increased maximum Mana
+#% increased Movement Speed if you haven't taken Damage Recently
+#% increased Movement Speed if you've Hit an Enemy Recently
+#% increased Movement Speed if you've Killed Recently
+#% increased Vaal Skill Critical Strike Chance
+#% increased Vaal Skill Effect Duration
+#% of Damage is taken from Mana before Life
+#% of Damage taken Recouped as Mana
+#% reduced Effect of Curses on you while on Consecrated Ground
+#% reduced Elemental Ailment Duration on you
+#% reduced Mana Cost of Skills
+#% reduced Reservation of Skills
++# Mana gained for each Enemy hit by your Attacks
++# to Accuracy Rating
++# to all Attributes
++# to Armour if you've Hit an Enemy Recently
++# to Dexterity
++# to Dexterity and Intelligence
++# to Evasion Rating if Hit an Enemy Recently
++# to Intelligence
++# to maximum Fortification
++# to Strength
++# to Strength and Dexterity
++# to Strength and Intelligence
++#% chance to Evade Attack Hits
++#% chance to Suppress Spell Damage
++#% Chaos Resistance against Damage Over Time
++#% to all Elemental Resistances
++#% to Chaos Resistance
++#% to Cold and Lightning Resistances
++#% to Cold Resistance
++#% to Critical Strike Multiplier if you've Killed Recently
++#% to Fire and Cold Resistances
++#% to Fire and Lightning Resistances
++#% to Fire Resistance
++#% to Global Critical Strike Multiplier
++#% to Lightning Resistance
++#% to Quality
++1 to Level of all Raise Spectre Gems
++1 to Level of Socketed Dexterity Gems
++1 to Level of Socketed Intelligence Gems
++1 to Level of Socketed Strength Gems
++1000 to Armour if you've Hit an Enemy Recently
++1000 to Evasion Rating if Hit an Enemy Recently
++2% Chance to Block Attack Damage if you were Damaged by a Hit Recently
++2% Chance to Block Spell Damage if you were Damaged by a Hit Recently
++500 to Armour if you've Hit an Enemy Recently
++500 to Evasion Rating if Hit an Enemy Recently
+0.3% of Attack Damage Leeched as Life
+0.3% of Spell Damage Leeched as Energy Shield
+10% chance to gain Onslaught for 4 seconds on Kill
+10% increased Mana Reservation Efficiency of Skills
+15% chance to Intimidate Enemies for 4 seconds on Hit
+2% additional Physical Damage Reduction if you weren't Damaged by a Hit Recently
+2% chance to Dodge Attack and Spell Hits if you've
+20% chance to Defend with 200% of Armour
+20% chance to Defend with Double Armour
+20% chance to gain Onslaught for 4 seconds on Kill
+50% chance to Avoid being Poisoned
+50% chance to avoid Bleeding
+9% increased Physical Damage taken
+-9% to Chaos Resistance
+-9% to Cold Resistance
+-9% to Fire Resistance
+-9% to Lightning Resistance
+Adds # Chaos Damage to Attacks
+Adds # Chaos Damage to Spells
+Adds # Cold Damage to Attacks
+Adds # Cold Damage to Spells
+Adds # Fire Damage to Attacks
+Adds # Fire Damage to Spells
+Adds # Lightning Damage to Attacks
+Adds # Lightning Damage to Spells
+Adds # Physical Damage to Attacks
+Adds # Physical Damage to Spells
+Adds 1 to # Lightning Damage to Attacks
+Adds 1 to 3 Physical Damage to Attacks
+Auras from your Skills grant 2% increased Damage to you and Allies
+Auras from your Skills grant 4% increased Damage to you and Allies
+been Hit Recently
+Cannot be Chilled or Frozen while moving
+Cannot be Shocked or Ignited while moving
+Curse Enemies with Despair on Hit
+Curse Enemies with Despair on Hit, with 40% increased Effect
+Damage Penetrates 2% Elemental Resistance if you haven't Killed Recently
+Damage Penetrates 2% Elemental Resistances if you haven't Killed Recently
+Enemies Blinded by you have #% reduced Critical Strike Chance
+Enemies Hindered by you have #% reduced Life Regeneration rate
+Enemies Intimidated by you have #% increased duration of stuns against them
+Enemies Maimed by you take #% increased Damage Over Time
+Enemies Withered by you have -2% to all Resistances
+Gain # Mana per Enemy Hit with Attacks
+Gain #% of Physical Damage as Extra Fire Damage if you've dealt a Critical Strike Recently
+Has 1 Abyssal Socket
+Ignore all Movement Penalties from Armour
+Minions deal #% increased Damage against Abyssal Monsters
+Minions deal #% increased Damage if you've used a Minion Skill Recently
+Minions deal #% increased Damage with Hits and Ailments against Abyssal Monsters
+Minions have #% chance to Blind on Hit with Attacks
+Minions have #% chance to cause Bleeding with Attacks
+Minions have #% chance to Hinder Enemies on Hit with Spells
+Minions have #% chance to Hinder Enemies on Hit with Spells, with 30% reduced Movement Speed
+Minions have #% chance to Ignite
+Minions have #% chance to Poison Enemies on Hit
+Minions have #% chance to Taunt on Hit with Attacks
+Minions have #% increased Attack and Cast Speed if you or your Minions have Killed Recently
+Minions have #% increased Attack Speed
+Minions have #% increased Cast Speed
+Minions have #% increased maximum Life
+Minions have #% increased Movement Speed
+Minions have +# to Accuracy Rating
+Minions have +#% to all Elemental Resistances
+Minions have +#% to Chaos Resistance
+Minions Leech #% of Damage as Life
+Minions Regenerate #% of Life per second
+Nearby Enemies have -9% to Chaos Resistance
+Nearby Enemies have -9% to Cold Resistance
+Nearby Enemies have -9% to Fire Resistance
+Nearby Enemies have -9% to Lightning Resistance
+Nearby Enemies take 9% increased Physical Damage
+Non-Aura Vaal Skills require 20% reduced Souls Per Use
+Non-Aura Vaal Skills require 40% reduced Souls Per Use
+Regenerate #% of Life per second while moving
+Regenerate 0.3% of Energy Shield per second if you've Hit an Enemy Recently
+Regenerate 0.4% of Mana per second if you've Hit an Enemy Recently
+Regenerate 0.5% of Energy Shield per second if you've Hit an Enemy Recently
+Regenerate 0.5% of Mana per second
+Regenerate 0.8% of Mana per second if you've Hit an Enemy Recently
+Regenerate 1% of Energy Shield per second
+Regenerate 1% of Energy Shield per second if you've Hit an Enemy Recently
+Regenerate 1% of Life per second
+Socketed Attacks have -15 to Total Mana Cost
+Socketed Gems are Supported by Level 1 Arcane Surge
+Socketed Gems are Supported by Level 1 Maim
+Socketed Skills have 18% increased Attack Speed
+Socketed Skills have 18% increased Cast Speed
+Socketed Spells have 20% reduced Mana Cost
+Vaal Skills require 20% reduced Souls Per Use
+Vaal Skills require 40% reduced Souls Per Use

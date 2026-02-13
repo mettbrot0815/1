@@ -1,0 +1,30 @@
+#% increased effect of Modifiers on non-unique Maps
+#% increased Experience gain
+#% increased Pack size
+#% increased Quantity of Items found in Areas
+#% increased Rarity of Items found in Areas
+#% more Magic Monsters
+#% more Rare Monsters
+Armour Items found in Areas have #% chance to drop with 20% Quality
+Flasks found in Areas have #% chance to drop with 20% Quality
+Gems found in Areas have 1% chance to drop with 20% Quality
+Items found in Areas have #% chance to have a White Socket
+Items found in Areas have #% chance to have the maximum number of Sockets
+Items found in Areas have #% increased chance to be Influenced
+Items found in Areas have 0.5% chance to have the maximum number of Sockets
+Items have #% chance to drop fully Linked in Areas
+Map Items have a #% chance to drop as a random Unique Map instead in Areas
+Monsters and Chests in Areas have #% chance to drop Items with +1 to Item Level
+Unique Bosses drop an additional Basic Currency Item
+Unique Bosses have #% chance to drop an additional Divination Card
+Unique Bosses have #% chance to drop an additional Essence
+Unique Bosses have #% chance to drop an additional Item with random Influence
+Unique Bosses have #% chance to drop an additional Map Item
+Unique Bosses have #% chance to drop an additional Sacrifice Fragment
+Unique Bosses have #% chance to drop an additional Scarab
+Unique Bosses have #% chance to drop an additional Silver Coin
+Unique Bosses have #% chance to drop an additional Talisman
+Unique Map Bosses have #% chance to drop additional Map Currency Items
+Unique Map Bosses have #% chance to drop an additional Atlas Base Type
+Unique Map Bosses have #% chance to drop an additional Unique Item
+Weapons found in Areas have #% chance to drop with 20% Quality
