@@ -1,0 +1,94 @@
+#% additional Elemental Resistances during Effect
+#% additional Elemental Resistances during Flask effect
+#% chance to Avoid being Chilled during Effect
+#% chance to Avoid being Frozen during Effect
+#% chance to Avoid being Ignited during Effect
+#% chance to Avoid being Shocked during Effect
+#% Chance to Avoid being Stunned during Effect
+#% chance to Freeze, Shock and Ignite during Effect
+#% chance to Freeze, Shock and Ignite during Flask effect
+#% increased Accuracy Rating during Effect
+#% increased Armour during Effect
+#% increased Armour during Flask effect
+#% increased Attack Speed during Effect
+#% increased Attack Speed during Flask effect
+#% increased Block and Stun Recovery during Effect
+#% increased Block and Stun Recovery during Flask effect
+#% increased Cast Speed during Effect
+#% increased Cast Speed during Flask effect
+#% increased Critical Strike Chance during Effect
+#% increased Evasion Rating during Effect
+#% increased Evasion Rating during Flask effect
+#% increased Movement Speed during Effect
+#% increased Movement Speed during Flask effect
+#% increased Ward during Effect
+#% less Duration
+#% reduced Bleeding Duration on you during Effect
+#% reduced Effect of Chill on you during Effect
+#% reduced Effect of Curses on you during Effect
+#% reduced Effect of Shock on you during Effect
+#% reduced Freeze Duration on you during Effect
+#% reduced Ignite Duration on you during Effect
+#% reduced Mana Cost of Skills during Effect
+#% reduced Mana Cost of Skills during Flask Effect
+#% reduced Poison Duration on you during Effect
+0.4% of Attack Damage Leeched as Life during Effect
+0.4% of Attack Damage Leeched as Life during Flask effect
+0.4% of Physical Attack Damage Leeched as Life during Effect
+0.4% of Physical Attack Damage Leeched as Life during Flask effect
+0.4% of Physical Attack Damage Leeched as Mana during Effect
+0.4% of Physical Attack Damage Leeched as Mana during Flask effect
+0.4% of Spell Damage Leeched as Energy Shield during Effect
+0.4% of Spell Damage Leeched as Energy Shield during Flask effect
+0.5% of Attack Damage Leeched as Life during Effect
+0.5% of Spell Damage Leeched as Energy Shield during Effect
+0.6% of Attack Damage Leeched as Life during Effect
+0.6% of Spell Damage Leeched as Energy Shield during Effect
+0.7% of Attack Damage Leeched as Life during Effect
+0.7% of Spell Damage Leeched as Energy Shield during Effect
+0.8% of Attack Damage Leeched as Life during Effect
+0.8% of Spell Damage Leeched as Energy Shield during Effect
+2% of Physical Attack Damage Leeched as Life during Effect
+2% of Physical Attack Damage Leeched as Life during Flask effect
+Adds Knockback to Melee Attacks during Effect
+Adds Knockback to Melee Attacks during Flask effect
+Grants #% of Life Recovery to Minions
+Grants Immunity to Bleeding for # seconds if used while Bleeding
+Grants Immunity to Bleeding for 4 seconds if used while Bleeding
+Grants Immunity to Chill for # seconds if used while Chilled
+Grants Immunity to Chill for 4 seconds if used while Chilled
+Grants Immunity to Corrupted Blood for # seconds if used while affected by Corrupted Blood
+Grants Immunity to Corrupted Blood for 4 seconds if used while affected by Corrupted Blood
+Grants Immunity to Freeze for # seconds if used while Frozen
+Grants Immunity to Freeze for 4 seconds if used while Frozen
+Grants Immunity to Hinder for # seconds if used while Hindered
+Grants Immunity to Ignite for # seconds if used while Ignited
+Grants Immunity to Ignite for 4 seconds if used while Ignited
+Grants Immunity to Maim for # seconds if used while Maimed
+Grants Immunity to Poison for # seconds if used while Poisoned
+Grants Immunity to Poison for 4 seconds if used while Poisoned
+Grants Immunity to Shock for # seconds if used while Shocked
+Grants Immunity to Shock for 4 seconds if used while Shocked
+Hinders nearby Enemies with #% reduced Movement Speed if used while not on Full Life
+Hinders nearby Enemies with #% reduced Movement Speed if used while not on Full Mana
+Immune to Curses during Flask effect
+Immune to Poison during Flask Effect
+Immunity to Bleeding and Corrupted Blood during Effect
+Immunity to Bleeding and Corrupted Blood during Flask effect
+Immunity to Freeze and Chill during Effect
+Immunity to Freeze and Chill during Flask effect
+Immunity to Ignite during Effect
+Immunity to Ignite during Flask effect
+Immunity to Poison during Effect
+Immunity to Shock during Effect
+Immunity to Shock during Flask effect
+Recover an additional #% of Flask's Life Recovery Amount over 10 seconds if used while not on Full Life
+Removes all Burning when used
+Removes Bleeding and Corrupted Blood on use
+Removes Burning on use
+Removes Curses on use
+Removes Freeze and Chill on use
+Removes Poison on use
+Removes Shock on use
+Melee Weapon Damage Penetrates #% Elemental Resistances
+#% increased Melee Weapon Attack Speed

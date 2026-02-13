@@ -1,0 +1,20 @@
+Artillery Quiver
+Blazing Arrow Quiver
+Blunt Arrow Quiver
+Broadhead Arrow Quiver
+Conductive Quiver
+Cured Quiver
+Feathered Arrow Quiver
+Fire Arrow Quiver
+Heavy Arrow Quiver
+Heavy Quiver
+Light Quiver
+Ornate Quiver
+Penetrating Arrow Quiver
+Primal Arrow Quiver
+Rugged Quiver
+Serrated Arrow Quiver
+Sharktooth Arrow Quiver
+Spike-Point Arrow Quiver
+Two-Point Arrow Quiver
+Vile Arrow Quiver

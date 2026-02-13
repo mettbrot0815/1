@@ -1,0 +1,114 @@
+Arctic
+Arming
+Armoured
+Avalanching
+Bandit's
+Battlemage's
+Beating
+Blunt
+Brawling
+Brutal
+Carved
+Cerebral
+Champion's
+Chaotic
+Charging
+Chilling
+Cleaving
+Crippling
+Cruel
+Cryomantic
+Debilitating
+Decrepifying
+Defensive
+Deflecting
+Determined
+Dissipating
+Electromantic
+Energetic
+Enlightened
+Evasive
+Faithful
+Fencing
+Fevered
+Fierce
+Fighter's
+Flaming
+Flanking
+Furious
+Gladiator's
+Glowing
+Halting
+Harming
+Harmonic
+Healthy
+Honed
+Humming
+Hungering
+Incapacitating
+Incinerating
+Inescapable
+Infernal
+Jinxing
+Judging
+Leadership
+Learned
+Lethal
+Master's
+Obliterating
+of Assassination FIX ME
+of Biting FIX ME
+of Crushing FIX ME
+of Divination FIX ME
+of Evocation FIX ME
+of Execution FIX ME
+of Needling FIX ME
+of Severing FIX ME
+of Stinging FIX ME
+of Striking FIX ME
+of the Bear FIX ME
+of the Eagle FIX ME
+of the Hunter FIX ME
+of the Sniper FIX ME
+of Trauma FIX ME
+of Tyranny FIX ME
+Paladin's
+Parrying
+Passionate
+Piercing
+Prolonging
+Puncturing
+Pyromantic
+Resonant
+Ripping
+Rogue's
+Rupturing
+Sabotage
+Savage
+Serene
+Shaman's
+Sharpened
+Shielding
+Shimmering
+Sinister
+Siphoning
+Slicing
+Soldier's
+Sorcerer's
+Sundering
+Surging
+Technical
+Thirsting
+Thundering
+Thwarting
+Transfusing
+Trapping
+Vicious
+Vivid
+Volleying
+Warding
+Warrior's
+Wise
+Withering
+Wizard's
+Wright's
